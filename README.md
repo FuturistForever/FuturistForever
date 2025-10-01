@@ -9,8 +9,8 @@
 
 <h2> 📊 Statistics </h2>
 <p align="left">
-<img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api?username=Futurist-Forever&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="stats" />
-<img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api/top-langs/?username=Futurist-Forever&theme=transparent&layout=compact&langs_count=10" alt="toplangs"  />
+<img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api?username=FuturistForever&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="stats" />
+<img height=200 align="center" src="https://futurist-forever-stats.vercel.app/api/top-langs/?username=FuturistForever&theme=transparent&layout=compact&langs_count=10" alt="toplangs"  />
 </p>
 
 <h2> 🚀 Skills </h2>
@@ -111,8 +111,8 @@
 
 <p align="center" >
 	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Futurist-Forever/Futurist-Forever/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Futurist-Forever/Futurist-Forever/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Futurist-Forever/Futurist-Forever/output-3d-contrib/day.svg" />
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/FuturistForever/FuturistForever/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FuturistForever/FuturistForever/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/FuturistForever/FuturistForever/output-3d-contrib/day.svg" />
 	</picture>
 </p>
