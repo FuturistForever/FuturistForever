@@ -90,6 +90,9 @@
 <a href="https://holopin.me/@futuristforever" target="_blank" rel="noreferrer" >
 <img align="center" src="https://holopin.me/futuristforever" alt="holopin" />
 </a>
+<br />
+<br />
+<img width="250" height="250" alt="Maltego-Community-OSINT-CTF" src="https://github.com/user-attachments/assets/251cadf6-0d3f-4856-aad1-b3839923fad2" />
 </p>
 
 <h2> ☕ Buy Me A Coffee </h2>
